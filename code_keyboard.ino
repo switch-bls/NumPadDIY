@@ -8,7 +8,7 @@ const int ROWS = 5;
 const int COLUMNS = 5;
 
 //Loop Delay
-int delayLoopPin = 2;
+int delayLoopPin = 3;
 
 //Input pins,
 int ColPins[COLUMNS] = {8,9,7,6,5};
